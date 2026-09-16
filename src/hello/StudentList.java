@@ -6,7 +6,6 @@ package hello;
 
 /**
  * This is to show changes
- * This is to rollback
  * @author bacha
  */
 public class StudentList {

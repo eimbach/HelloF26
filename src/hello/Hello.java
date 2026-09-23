@@ -6,7 +6,7 @@ package hello;
 import java.util.Scanner;
 
 /**
- *
+ * Changes on 23 September
  * @author bacha
  */
 public class Hello {

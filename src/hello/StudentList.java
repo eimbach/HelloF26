@@ -7,6 +7,7 @@ package hello;
 /**
  * This is to show changes
  * This comment has been added to show push to remote repo.
+ * Today is September 23rd, example of fetch+merge
  * @author bacha
  */
 public class StudentList {
